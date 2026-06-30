@@ -1,0 +1,6 @@
+{
+  "name": "Cancer Care",
+  "description": "Cancer education guides, early detection advice, and a personal hospital visit and appointment reminder log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
